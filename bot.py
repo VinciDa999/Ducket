@@ -16,7 +16,7 @@ wib = pytz.timezone('Asia/Jakarta')
 class Ducket:
     def __init__(self) -> None:
         self.BASE_API = "https://launcher.ducket.club/api"
-        self.REF_CODE = "VONSSY" # U can change it with yours.
+        self.REF_CODE = "VINCIDA" # U can change it with yours.
         self.BASE_HEADERS = {}
         self.ARCADE_HEADERS = {}
         self.proxies = []
